@@ -4,7 +4,7 @@ header-img: img/Mies.jpg
 email: dseveria@hawk.iit.edu
 copyright_name: Duana
 description: "Duana's awesome Digital Fabrication Research"
-baseurl: "http://dseveria.github.io/"
+baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://dseveria.github.io/"
 twitter_username: duseveri
 github_username:  dseveria
